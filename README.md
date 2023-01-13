@@ -18,6 +18,6 @@
 
 <div>
   <a href="https://github.com/samuelcms">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelcms&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelcms&layout=compact&langs_count=8&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelcms&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelcms&layout=compact&langs_count=8&theme=dark"/>
 <div>
