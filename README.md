@@ -14,10 +14,11 @@
   - 📫 How to reach me: ...
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
--->
+
 
 <div>
   <a href="https://github.com/samuelcms">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelcms&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelcms&layout=compact&langs_count=8&theme=react"/>
 <div>
+-->
