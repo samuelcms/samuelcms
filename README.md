@@ -29,4 +29,4 @@
   <img height="165em" src="https://github-readme-stats-lovat-two.vercel.app/api/top-langs/?username=samuelcms&layout=compact&langs_count=8&theme=react&count_private=true"/>
 <div>
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcms&count_private=true)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcms&count_private=false)
