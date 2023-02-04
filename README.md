@@ -31,13 +31,6 @@
 
 <div>
   <a href="https://github.com/samuelcms">
-  <img height="166em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelcms&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats-lovat-two.vercel.app/api/top-langs/?username=samuelcms&hide=css,html&layout=compact&theme=react"/>
+  <img height="168em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelcms&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats-lovat-two.vercel.app/api/top-langs/?username=samuelcms&hide=css,html&layout=compact&theme=react"/>
 <div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelcms&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-lovat-two.vercel.app/api/top-langs/?username=samuelcms&hide=css,html&layout=compact&theme=react"/>
-</a>
