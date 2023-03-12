@@ -1,6 +1,6 @@
 ### Olá! Sou o Samuel Siqueira 👋
 
-  - 🔭 Cursando Sistemas para Internet no [IFSEMG - Campus Barbacena](https://www.ifsudestemg.edu.br/barbacena)
+  - 🔭 Cursando Sistemas para Internet no [IF Sudeste MG - Campus Barbacena](https://www.ifsudestemg.edu.br/barbacena)
   - 🌱 Estudando sobre Java, Python, JavaScript, HTML e CSS
 
 <div style="display: inline_block" align="center"><br>
