@@ -3,6 +3,12 @@
   - 🔭 Cursando Sistemas para Internet no [IF Sudeste MG - Campus Barbacena](https://www.ifsudestemg.edu.br/barbacena)
   - 🌱 Estudando sobre Java, Python, JavaScript, HTML e CSS
 
+<div>
+  <a href="https://github.com/samuelcms">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelcms&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelcms&layout=compact&langs_count=8&theme=react&count_private=true"/>
+<div>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
